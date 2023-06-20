@@ -2,7 +2,7 @@
 ## To-Do List Project. JWT Security
 ### The Task:
 
-1) Implement JWT authentication (the [JJWT](https://github.com/jwtk/jjwt) library included in the pom.xml)
+1) Implement JWT authentication (the [JJWT](https://github.com/jwtk/jjwt) library included in the pom.xml) and implements controllers with security rules.
 2) Use [Postman](https://www.postman.com/downloads/) to demonstrate the functionality
 
 
